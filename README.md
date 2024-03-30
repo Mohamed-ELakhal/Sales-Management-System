@@ -44,7 +44,7 @@ This format should be more readable and suitable for platforms like GitHub.
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/your-username/Sales-Management-System.git
-    cd bazaar
+    cd Sales-Management-System
     ```
 2. Configure MySQL database settings in application.properties under `src/main/resources`.
 3. Build and run the backend using Maven:
